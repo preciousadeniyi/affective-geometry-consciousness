@@ -1,4 +1,4 @@
-```markdown
+
 # CDG Consciousness Tests
 
 *Geometric Signatures of Affective Consciousness - Experimental Validation Framework*
@@ -7,7 +7,7 @@
 
 This repository implements an **experimental framework** for testing geometric signatures of consciousness based on the **Curvature Dynamics of Geometry (CDG)** approach. The framework explores whether consciousness emerges from specific geometric properties of affective navigation in meaning space.
 
-> **Note**: This is an **exploratory research program**, not a completed theory. It represents work-in-progress thinking about how to operationalize and test consciousness through geometric signatures.
+**Note**: This is an **exploratory research program**, not a completed theory. It represents work-in-progress thinking about how to operationalize and test consciousness through geometric signatures.
 
 ## 🎯 Core Insight
 
@@ -164,11 +164,11 @@ We welcome collaborations from:
 If this work informs your research, please cite:
 
 ```bibtex
-@software{cdg_consciousness_2024,
+@software{cdg_consciousness_2025,
   title = {CDG Consciousness Tests: Geometric Signatures of Affective Consciousness},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/CDG-Consciousness-Tests}
+  author = {Precious Adeniyi},
+  year = {2025},
+  url = {https://github.com/preciousadeniyi/affective-geometry-consciousness}
 }
 ```
 
@@ -215,16 +215,6 @@ This framework builds upon:
 
 **Note**: This is active research. Concepts, implementations, and theories are subject to revision based on empirical results and peer feedback.
 
-*Last updated: March 2024*
+*Last updated: November 2025*
 ```
 
-This README:
-
-1. **Sets appropriate expectations** - clearly states this is exploratory research
-2. **Shows scientific rigor** - detailed methods, citations, ethical considerations  
-3. **Demonstrates implementation** - actual code examples and structure
-4. **Maintains humility** - doesn't overclaim or present as finished theory
-5. **Invites collaboration** - clear pathways for others to engage
-6. **Acknowledges foundations** - gives credit to the neuroscience it builds upon
-
-**This version is much safer to send to Solms** because it presents the work as a serious but preliminary research program rather than a completed solution.
