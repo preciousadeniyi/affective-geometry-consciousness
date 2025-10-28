@@ -45,8 +45,8 @@ matplotlib >= 3.5
 ### Basic Usage
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CDG-Consciousness-Tests.git
-cd CDG-Consciousness-Tests
+git clone https://https://github.com/preciousadeniyi/affective-geometry-consciousness.git
+cd affective-geometry-consciousness
 
 # Run basic affective core demonstration
 python src/affective_core.py
@@ -98,8 +98,7 @@ CDG-Consciousness-Tests/
 ├── docs/                     # Theoretical documentation
 │   ├── theoretical_foundations.md
 │   └── success_criteria.md   # Consciousness assessment criteria
-└── papers/                   # Academic context
-    └── solms_correspondence.md
+└── 
 ```
 
 ## 🔬 Theoretical Foundation
@@ -191,7 +190,7 @@ We advocate for:
 **A**: No, this is an experimental framework for testing specific geometric hypotheses about consciousness. It's a research program, not a finished theory.
 
 ### Q: How does this relate to the "hard problem"?
-**A**: This framework focuses on the "easy problems" - measurable signatures that correlate with consciousness. It makes no claims about solving the hard problem of subjective experience.
+**A**: This framework is a  measurable signatures that correlate with consciousness. It makes no claims about solving the hard problem of subjective experience.
 
 ### Q: Can this detect consciousness in humans?
 **A**: Not directly in current form. The framework is designed for computational systems, though it may eventually inform biological consciousness assessment.
