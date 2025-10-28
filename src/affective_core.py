@@ -1,4 +1,4 @@
-```python
+
 """
 Affective Core Implementation for CDG Framework
 Implements basic biological drives and interoceptive processing
@@ -373,4 +373,4 @@ if __name__ == "__main__":
     for drive_name, state in summary['drive_states'].items():
         print(f"  {drive_name}: level={state['level']:.3f}, "
               f"urgency={state['urgency']:.3f}")
-```
+
